@@ -42,6 +42,7 @@
 
 * **Mesurer** : `len(ma_liste)` donne le nombre total d'éléments.
 
-### <font color="blue">**Les listes et Fonctions de base**<\font>
+### <font color="dodgerblue">Les listes et Fonctions de base</font>
+
 
 

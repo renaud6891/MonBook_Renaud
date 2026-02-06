@@ -41,3 +41,6 @@
 * **Modifier** : `ma_liste[1]` = "Nouveau" remplace l'élément à l'index 1.
 
 * **Mesurer** : `len(ma_liste)` donne le nombre total d'éléments.
+
+### <font color="bleu">Les listes et Fonctions de base<\font>
+
